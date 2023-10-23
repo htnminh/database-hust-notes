@@ -1,5 +1,3 @@
-> Các bạn lưu ý đọc hướng dẫn trong các file pdf nhé.
-
 Mục lục
 - [Bài thực hành số 1](#bài-thực-hành-số-1)
   - [Cài đặt SQL Server](#cài-đặt-sql-server)
@@ -9,17 +7,18 @@ Mục lục
 - [Bài thực hành số 4](#bài-thực-hành-số-4)
 - [Bài thực hành số 5](#bài-thực-hành-số-5)
 
+> Các bạn lưu ý đọc hướng dẫn trong các file pdf nhé.
 
 # Bài thực hành số 1
 
 ## Cài đặt SQL Server
 
-Tải SQL Server 2022 bản Express (thay cho 2015): https://www.microsoft.com/en-us/sql-server/sql-server-2022
+Tải SQL Server 2022 bản Express (thay cho 2015): <https://www.microsoft.com/en-us/sql-server/sql-server-2022>
 
 Chọn Basic và cài đặt
 - ![Alt text](image.png)
 
-Chọn Install SSMS (hoặc https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16&redirectedfrom=MSDN) và tải SSMS, sau đó cài đặt. Chọn Close ở cửa sổ cài đặt SQL Server trên.
+Chọn Install SSMS (hoặc <https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16&redirectedfrom=MSDN>) và tải SSMS, sau đó cài đặt. Chọn Close ở cửa sổ cài đặt SQL Server trên.
 - ![Alt text](image-1.png)
 
 ## Thao tác cơ bản
@@ -47,4 +46,4 @@ WHERE TABLE_TYPE = 'BASE TABLE'
 --------
 
 Tham khảo
--  https://stackoverflow.com/questions/175415/how-do-i-get-list-of-all-tables-in-a-database-using-tsql
+-  <https://stackoverflow.com/questions/175415/how-do-i-get-list-of-all-tables-in-a-database-using-tsql>
