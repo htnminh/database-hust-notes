@@ -1,7 +1,6 @@
-> Các bạn lưu ý đọc hướng dẫn trong các file pdf nhé hihi
+> Các bạn lưu ý đọc hướng dẫn trong các file pdf nhé.
 
-# Mục lục
-- [Mục lục](#mục-lục)
+Mục lục
 - [Bài thực hành số 1](#bài-thực-hành-số-1)
   - [Cài đặt SQL Server](#cài-đặt-sql-server)
   - [Thao tác cơ bản](#thao-tác-cơ-bản)
